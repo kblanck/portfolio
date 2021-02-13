@@ -24,7 +24,7 @@ body {
 }
 
 #kim-about {
-    margin-top: 10em;
+    margin-top: 4em;
     margin-right: 55%;
     width: 40vw;
     max-width: 450px;
@@ -32,8 +32,9 @@ body {
 }
 
 #hold-kim-pic {
-    margin-top: -15em;
-    margin-left: 50%;
+    margin-top: -20em;
+    margin-left: 45%;
+    padding-left: 1em;
 }
 
 #welcome-kim {
@@ -57,7 +58,7 @@ h2 {
 }
 
 #about-hold-kim-pic {
-    margin-top: -33em;
+    margin-top: -30em;
     margin-left: 50%;
     margin-bottom: 2em;
 }
@@ -86,4 +87,18 @@ hr {
 li {
     list-style-type: none;
     margin-left: 1em;
+}
+
+#contact-kim-about {
+    margin-top: 4em;
+    margin-right: 55%;
+    width: 40vw;
+    max-width: 450px;
+    line-height: 2;
+}
+
+#contact-hold-kim-pic {
+    margin-top: -15em;
+    margin-left: 50%;
+    margin-bottom: 2em;
 }
