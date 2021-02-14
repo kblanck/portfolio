@@ -67,9 +67,38 @@ h2 {
 #projects-container {
     margin-top: 4em;
     margin-right: 55%;
-    width: 450px;
+    /* width: 450px; */
     line-height: 2;
     margin-bottom: 2em;
+}
+
+#project-div {
+    display: flex;
+}
+
+#project-inner-div-left {
+    margin-right: 1em;
+    width: 40vw;
+    height: auto;
+}
+
+#project-inner-div-right {
+    text-align: center;
+    margin-left: 1em;
+    margin-top: 2.5em;
+}
+
+#gif-preview {
+    width: 50vw;
+    max-width: 500px;
+    margin-bottom: 1em;
+    border: 10px solid #eee;
+    border-radius: 5px;
+}
+
+#click-to-view {
+    font-size: 1.1em;
+    padding-top: 1.5em;
 }
 
 h4 {
